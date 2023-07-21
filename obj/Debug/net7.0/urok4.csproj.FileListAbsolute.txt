@@ -1,0 +1,15 @@
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.csproj.AssemblyReference.cache
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.AssemblyInfoInputs.cache
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.AssemblyInfo.cs
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.csproj.CoreCompileInputs.cache
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\bin\Debug\net7.0\urok4.exe
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\bin\Debug\net7.0\urok4.deps.json
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\bin\Debug\net7.0\urok4.runtimeconfig.json
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\bin\Debug\net7.0\urok4.dll
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\bin\Debug\net7.0\urok4.pdb
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.dll
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\refint\urok4.dll
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.pdb
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\urok4.genruntimeconfig.cache
+C:\Users\rex\OneDrive\Desktop\urok4\urok4\obj\Debug\net7.0\ref\urok4.dll
